@@ -114,7 +114,6 @@ a {
     -moz-user-drag: none;
     -o-user-drag: none;
     user-drag: none;
-    touch-action: manipulation;
     padding: 0;
     height: 21px;
     width: 13px;
